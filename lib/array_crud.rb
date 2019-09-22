@@ -8,7 +8,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  ["A string", 1, true, :symbol, 2]
+  ["A string", "1", "true", ":symbol", "2"]
 end
 
 def add_element_to_start_of_array(array, element)

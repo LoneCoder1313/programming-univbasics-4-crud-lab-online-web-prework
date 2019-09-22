@@ -13,7 +13,8 @@ soda_type << "mountaindew"
 end
 
 def add_element_to_start_of_array(array, element)
-  soda_type = 
+  soda_type = ["dr pepper", "coke", "fanta", "gingerale", "mountaindew"]
+  
 end
 
 def remove_element_from_end_of_array(array)

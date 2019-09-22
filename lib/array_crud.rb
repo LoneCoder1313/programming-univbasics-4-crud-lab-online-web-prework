@@ -14,7 +14,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   soda_type = ["dr pepper", "coke", "fanta", "gingerale", "mountaindew"]
-  
+  soda_type.unshift("mountaindew")
 end
 
 def remove_element_from_end_of_array(array)

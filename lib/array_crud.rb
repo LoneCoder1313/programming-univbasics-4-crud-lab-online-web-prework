@@ -5,8 +5,6 @@ end
 
 def my_arry = ["ricky", "learns", "ruby"]
   puts my_arry [0, 1, 2]
-  
-
 end
 
 def add_element_to_end_of_array(array, element)

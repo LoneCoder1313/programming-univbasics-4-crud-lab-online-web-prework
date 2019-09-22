@@ -1,5 +1,5 @@
 def create_an_empty_array
-  #=> ["bulldog", "pitbull", "boxer"]
+  #=> ["bulldog", "pitbull", "boxer", "mastiff"]
 end
 
 def create_an_array

@@ -1,6 +1,7 @@
 array = ["bulldog", "pitbull", "boxer", "mastiff"]
 def create_an_empty_array
   #=> ["bulldog", "pitbull", "boxer", "mastiff"]
+puts array 
 end
 
 def create_an_array

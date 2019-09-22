@@ -50,5 +50,7 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-soda_type = 
+soda_type = ["dr pepper", "coke", "fanta", "gingerale", "mountaindew"]
+soda_type[4]= "mr pibb"
+=> "mr pibb"
 end

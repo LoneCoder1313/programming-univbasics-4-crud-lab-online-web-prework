@@ -24,7 +24,7 @@ end
 
 def remove_element_from_start_of_array(array)
   soda_type = ["dr pepper", "coke", "fanta", "gingerale", "mountaindew"]
-  soda_type = 
+  dr_peper = soda_type.shift 
 end
 
 def retrieve_element_from_index(array, index_number)

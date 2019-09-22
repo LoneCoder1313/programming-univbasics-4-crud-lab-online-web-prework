@@ -4,13 +4,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  random_numbers = [2, 5, 6, 8, 2020]
   #=> [2, 5, 6, 8, 2020]
 end
 
 def add_element_to_end_of_array(array, element)
-  mixed = ["wow", "I", "am", "really", "learning"]
-  #=> ["wow", "I", "am", "really", "learning"]
+  ["A string", 1, true, :symbol, 2]
 end
 
 def add_element_to_start_of_array(array, element)

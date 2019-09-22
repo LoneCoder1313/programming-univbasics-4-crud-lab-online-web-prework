@@ -1,5 +1,5 @@
-array = ["bulldog", "pitbull", "boxer", "mastiff
-def 
+
+def soda_type =  
 end
 
 def create_an_array

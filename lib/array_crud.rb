@@ -44,7 +44,9 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  soda_type = 
+  soda_type = ["dr pepper", "coke", "fanta", "gingerale", "mountaindew"]
+  soda_type.index(4)
+  #=> "mountaindew"
 end
 
 def update_element_from_index(array, index_number, element)

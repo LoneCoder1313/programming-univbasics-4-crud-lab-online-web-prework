@@ -6,8 +6,8 @@ end
 
 def create_an_array
   array = Array.new #=>[]
-  Array.new(3) #=> [nil, nil, nil]
-  Array.new(3, true) #=> [true, true, true]
+  Array.new(4) #=> [nil, nil, nil, nil]
+  Array.new(4, true) #=> [true, true, true, true]
 
 end
 

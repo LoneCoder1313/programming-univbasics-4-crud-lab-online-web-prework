@@ -3,7 +3,7 @@ def soda_type = ["dr pepper", "coke", "fanta", "gingerale"]
   puts soda_type [2]
 end
 
-def create_an_array
+def my_arry = ["ricky", "learns", "ruby"]
   
 
 end

@@ -40,6 +40,7 @@ end
 def retrieve_first_element_from_array(array)
   soda_type = ["dr pepper", "coke", "fanta", "gingerale", "mountaindew"]
   soda_type[0]
+  #=> "dr pepper"
   
 end
 

@@ -1,4 +1,4 @@
-puppies = ["bulldog", "pitbull", "boxer", ""]
+puppies = ["bulldog", "pitbull", "boxer", "mastiff"]
 def create_an_empty_array
   #=> ["bulldog", "pitbull", "boxer", "mastiff"]
 

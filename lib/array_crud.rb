@@ -23,6 +23,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
+  soda_type = ["dr pepper", "coke", "fanta", "gingerale", "mountaindew"]
   soda_type = 
 end
 

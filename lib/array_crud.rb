@@ -38,7 +38,8 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  soda_type = 
+  soda_type = ["dr pepper", "coke", "fanta", "gingerale", "mountaindew"]
+  soda_type[0]
   
 end
 

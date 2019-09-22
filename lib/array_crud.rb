@@ -1,14 +1,16 @@
-puppies = ["bulldog", "pitbull", "boxer", "mastiff"]
+array = ["bulldog", "pitbull", "boxer", "mastiff"]
 def create_an_empty_array
   #=> ["bulldog", "pitbull", "boxer", "mastiff"]
 end
 
 def create_an_array
-  #=> [2, 5, 6, 8, 2020]
+  array = Array.new #=>[]
+  Array.new(3) #=> [nil, nil, nil]
+  Array.new(3, true) #=> [true, true, true]
 end
 
 def add_element_to_end_of_array(array, element)
-  ["A string", "1", "true", ":symbol", "2"]
+  
 end
 
 def add_element_to_start_of_array(array, element)

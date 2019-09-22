@@ -10,7 +10,7 @@ def create_an_array
 #=> ["1", "2", "3", "4"]
 puts "numbers"
 end
-amazing = ["wow", "I", "am", "really", "learning"]
+
 def add_element_to_end_of_array(array, element)
   #=> ["wow", "I", "am", "really", "learning"]
 

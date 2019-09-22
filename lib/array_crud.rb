@@ -4,6 +4,7 @@ def soda_type = ["dr pepper", "coke", "fanta", "gingerale"]
 end
 
 def my_arry = ["ricky", "learns", "ruby"]
+  puts my_arry [0, 1, 2]
   
 
 end

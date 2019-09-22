@@ -1,5 +1,5 @@
 
-def soda_type =  
+def soda_type = ["dr pepper", "coke", "fanta", "gingerale"]
 end
 
 def create_an_array

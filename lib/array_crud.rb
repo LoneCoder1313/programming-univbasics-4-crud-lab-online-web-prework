@@ -1,5 +1,5 @@
 
-def soda_type = ["dr pepper", "coke", "fanta", "gingerale"]
+def soda_type = ["dr pepper", "coke", "fanta", "gingerale", "mountaindew"]
   puts soda_type [2]
 end
 

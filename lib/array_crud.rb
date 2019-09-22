@@ -1,5 +1,5 @@
 
-def soda_type = ["dr pepper", "coke", "fanta", "gingerale", "mountaindew"]
+def soda_type = ["dr pepper", "coke", "fanta", "gingerale"]
   puts soda_type [2]
 end
 
@@ -8,7 +8,8 @@ def my_arry = ["ricky", "learns", "ruby"]
 end
 
 def add_element_to_end_of_array(array, element)
-  soda_type = 
+  soda_type = ["dr pepper", "coke", "fanta", "gingerale"]
+soda_type << "mountaindew"
 end
 
 def add_element_to_start_of_array(array, element)

@@ -4,13 +4,13 @@ def create_an_empty_array
 puts "puppies"
 end
 
-
 def create_an_array
-  my_array = Array.new 
-  #=>
+  random_numbers = [2, 5, 6, 8, 2020]
+  #=> [2, 5, 6, 8, 2020]
 end
 
 def add_element_to_end_of_array(array, element)
+  mixed = ["wow", ""]
   #=> ["wow", "I", "am", "really", "learning"]
 
 end

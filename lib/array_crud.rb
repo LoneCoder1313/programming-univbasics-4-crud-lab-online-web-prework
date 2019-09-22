@@ -1,11 +1,14 @@
 puppies = ["bulldog", "pitbull", "boxer", "mastiff"]
 def create_an_empty_array
   #=> ["bulldog", "pitbull", "boxer", "mastiff"]
-
+puts "puppies"
 end
 
+numbers = ["1", "2", "3", "4"]
 def create_an_array
   ["1", "2", "3", "4"]
+#=> ["1", "2", "3", "4"]
+puts "numbers"
 end
 
 def add_element_to_end_of_array(array, element)

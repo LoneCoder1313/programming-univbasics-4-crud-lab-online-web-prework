@@ -1,11 +1,10 @@
 
 def soda_type = ["dr pepper", "coke", "fanta", "gingerale"]
+  puts soda_type [2]
 end
 
 def create_an_array
-  array = Array.new #=>[]
-  Array.new(4) #=> [nil, nil, nil, nil]
-  Array.new(4, true) #=> [true, true, true, true]
+  
 
 end
 

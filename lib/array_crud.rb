@@ -8,7 +8,7 @@ def create_an_array
   array = Array.new #=>[]
   Array.new(3) #=> [nil, nil, nil]
   Array.new(3, true) #=> [true, true, true]
-puts Array.new
+
 end
 
 def add_element_to_end_of_array(array, element)
